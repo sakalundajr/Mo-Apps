@@ -1,0 +1,8 @@
+{
+  "name": "SocialSphere",
+  "description": "A comprehensive social media platform inspired by Facebook, featuring news feeds, profiles, messaging, marketplace, groups, and AI-powered content assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
